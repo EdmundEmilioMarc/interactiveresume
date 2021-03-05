@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+    #title{
+        font-size:50px;
+        text-indent:500px;
+        font-family:Garamond ;
+        color:Ivory;
+    }
+ <
+INDEX : <!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+    #title{
+        font-size:50px;
+        text-indent:500px;
+        font-family:Garamond ;
+        color:Ivory;
+    }
+ </style>
+<body>
+<h1 id="title">Welcome to My Interactive Resume</h1>
+<h4 class="note"><i>This resume is computer science related based of Edmund Lin</i></h4>
+  <center>
+    <table border="0">
+        <tr>
+            <th class="name">By: Edmund Lin</th>
+        </tr>
+    </center>
+        <table border="0">
+        <tr>
+             <th class="about"><a class="center" href="about.html">About</th>
+             <th class="projects"><a class="center" href="projects.html">Projects</th>
+        </tr>
+    </table>
+ </body>
+</html>
+ABOUT : <!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+    #about{
+      font-size:30px;  
+      text-indent:750px;
+      color:DarkCyan;
+ }
+ #contact{
+      font-size:30px;  
+      text-indent:500px;
+      color:LavenderBlush;
+ }
+</style>
+<h1 id="about">About Me</h1>
+     <p>
+        <div class="edmund">Edmund Lin</div> 
+            <div class="edmundlist"> -Senior in <i>Cosumnes Oaks High School</i></div>
+            <div class="edmundlist"> -17 years old</div>
+            <div class="edmundlist"> -Graduation year is 2021</div>
+            <div class="edmundlist"> -Interset computer science</div>
+    </p>
+        <div class="skill">Skills</div>
+     <p>
+         <div class="skills"> 1) Speak Cantonese</div>
+        <div class="skills"> 2) Experience in Coding</div>
+            <div class="space">-<i>Includes C++, Arduino, HTML web development</i></div>
+        <div class="skills"> 3) Experience in building robots</div>
+             <div class="space">-<i>Linkbots, Parallax robots, and Papermech machinations</i></div>
+     </p>
+        <div class="extra">Extracurricular Activities</div>
+       <p>
+         <div class="extralist"> 1) California Scholarship Federation</div>
+            <div class="space">-Tutor students in Math 1 and completed around 55 hours.</div>
+        <div class="extralist">2) Friday Night Live Mentoring</div>
+            <div class="space">-Become a mentor for a middle schooler and completed around 40 hours.</div>
+        <div class="extralist">3) Computer Science Honor Society</div>
+            <div class="space">-Started learning Flutter using Fluuter SDK, VS Code, and Android Studio.</div>
+        <div class="extralist">4) Volunteer at Elk Grove Food Bank</div>
+            <div class="space">-Manager and volunteer at Clothes Closet and completed around 15 hours.</div>
+    </p>
+        <div class="classes"> Classes Taken</div>
+        <div class="classlist">1) Computer Technology</div>
+        <div class="classlist">2) Computing Math and Basic Programming</div>
+        <div class="classlist">3) Computing with Robotics</div>
+        <div class="classlist">4) Principles and Design of Cyberphysical Systems</div>
+        <div class="classlist">5) AP Computer Science Principles</div>
+    </p>
+        <div class="future">Future Plans</div>
+            <div class="futureplans">1) Attend a community college as a computer science major (2 years) </div>
+            <div class="futureplans">2) Attend a 4 year college as a computer science major </div>
+            <div class="futureplans">3) Have a job related to computer science or software engineer</div>
+<h1 id="contact">Contact Information</h1>
+    <p>
+        <div class="contact">Phone Number: (916) 620-1979</div>
+        <div class="contact">Email: edmundlin7@gmail.com</div>
+    </p>
+    </center>
+        <table border="0">
+        <tr>
+             <th class="return"><a class="center" href="index.html">Return to Main Page</th>
+        </tr>
+    </table>
+    </center>
+</html>
+PROJECTS : <!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+<style>
+    #learn{
+      font-size:30px;  
+      text-indent:700px;
+      color:DarkMagenta;
+    }
+    #projects{
+      font-size:30px; 
+      text-indent:0px;
+      color:Navy;
+    }
+</style>    
+<h1 id="learn">What I've Learned</h1>
+    <div class="learnlist"> a) C++/Chide</div>
+        <div class="learndisc">*Components learned in C++ are lists, strings, loops, inputs, outputs, arithmetics, and conditional.</div>
+    <div class="learnlist"> b) Arduino</div>
+        <div class="learndisc">*Components learned in C++ are lists, strings, loops, inputs, outputs, arithmetics, and conditional.</div>
+    <div class="learnlist"> c) Microbit</div>
+         <div class="learndisc">*Like a mini-Arduino board includes functions such as loops, variables, constants, images, music, random number, debugging, list, radio, and LED</div>
+         <div class="learndisc">*Used UI, USB, acclerometer, display, buttons, reboot, debugging..</div>  
+    <div class="learnlist"> d) HTML Web Development</div>
+        <div class="learndisc">*Learned from CodeHS.Components of web development I learned are images, links, tables, lists, style of webpage, divs, spans, selecting a specific class by ID/class/special selectors,</p>
+        aminations, visibility, and interactive images on click.</div>
+    <div class="learnlist"> e) App Development</div>
+         <div class="learndisc">*Learned from Code.org and Snap.</div>
+<p id="projects">Projects</p>
+         <div class="projectlist"> 1) C++ Choose Your Own Adventure Story</div> 
+            <div class="projectdisc">-<i>C++ source code, a custom made choose your adventure story. Each choice you make lead to different endings. Used strings, loops, arithmetics, conditionals, and lists.</i></div>
+            <div class="projectdisc"><b>Here's the source code for C++ Choose Your Own Adventure Story</b></div>
+             <a href="https://github.com/EdmundEmilioMarc/Portfolio/blob/master/ChooseYourAdventure">Choose Your Own Adventure Story</a>
+         <div class="projectlist"> 2) Arduino Lightshow</div> 
+            <div class="projectdisc">-<i>Arduino breadboard has mutiple LED lights with each lights coded to turn on/off alongside the beat of the song.</i></div>
+            <div class="projectdisc"><b>Here's the source code for Arduino Lightshow and Arduino Lightshow video</b></div>
+              <a href="https://www.youtube.com/watch?v=TEUr2Q-nL10&feature=youtu.be">Arduino Lightshow Video</a></p>
+              <a href="https://github.com/EdmundEmilioMarc/Portfolio/commit/e9ee67092cf31e6495321a51e3e972119c752492">Arduino Lightshow Code</a></p>
+         <div class="projectlist"> 3) Microbit</div> 
+            <div class="projectdisc"><b>Here's the source code for a Microbit project</b></div>
+                <a href="https://github.com/EdmundEmilioMarc/MicroBit/commit/e2a6154c50f2b048b9ad835927375a07b901e84f">Microbit Code</a></p>
+         <div class="projectlist"> 4) Arduino Parallax Robots</div>
+            <div class="projectdisc">-<i>Arduino parallax robots coincide with Arduino book of challenges which inculdes how to build a Parallax robot and challenges for the robot to complete.</i></div>
+            <div class="projectdisc">-<i>Part inculdes Boe-Bot Robot Chassis, Rarallax continuous servos, plastic wheel and tires, 1 inch tail wheel, 4 AA battery holder, whisker wires, phototransistors, LED lights, transmitter, infrared receivers, pushbuttons, piezospeaker, jumper wires, different resistors(1k, 4.7k, 220, etc.), capacitors, and 3-pin headers</i></div>
+         <div class="projectlist"> 5) Papermech Machinations</div> 
+         <div class="projectlist"> 6) CodeHS Web Development</div>
+            <div class="projectdisc">-Learned HTML from CodeHS and developed a website and this interactive resume.</div>
+         <div class="projectlist"> 7) App Development</div> 
+            <div class="projectdisc">-<i>App development using code.org. Here's an example!</i></div>
+            <a href="https://github.com/EdmundEmilioMarc/Code.org-Color-Sleuth-Game-Code/commit/31bbfc5d1be1569466abe60bbb7bde15aea440d6">Source Code for Code.org Color Sleuth Game</a></p>
+            <div class="projectdisc">-<i>App development using Snap. Here's some examples!</i></div>
+    <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=edmundlin&ProjectName=U3L1-FINISHEDTic-Tac-ToeLin%2CLao">a) Tic Tac Toe</a></p>
+    <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=edmundlin&ProjectName=U3L1-FINISHEDTic-Tac-ToeLin%2CLaohttps://snap.berkeley.edu/snapsource/snap.html#present:Username=edmundlin&ProjectName=U3L1-ContactList%20Lin%2CLaohttps://snap.berkeley.edu/snap/snap.html#present:Username=mj_lao&ProjectName=U3L1-Triangleshttps://snap.berkeley.edu/snapsource/snap.html#present:Username=edmundlin&ProjectName=U3L1%20Brick%20Wall-%20Lin%2F%20Lao">b) Build Your Own Wall</a></p>
+    <a href="https://snap.berkeley.edu/snap/snap.html#">c) Contact List</a></p>
+ </center>
+        <table border="0">
+        <tr>
+             <th class="return"><a class="center" href="index.html">Return to Main Page</th>
+        </tr>
+    </table>
+    </center>
+</html>
+STYLE : body {
+    background-color:LightSkyBlue;
+    font-family: Trebuchet;
+}
+.about{
+    width: 20px;
+    height: 20px;
+    background-color:DarkOrange;
+    opacity:0.5;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.projects{
+    width: 20px;
+    height: 20px;
+    background-color:ForestGreen;
+    opacity:0.5;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.name{
+    width: 230px;
+    height: 50px;
+    background-color:Crimson;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.return{
+    width: 150px;
+    height: 30px;
+    background-color:MediumAquamarine;
+    opacity:0.5;
+    color: white;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+.edmund{
+    font-size:20px;
+    font-weight:bold;
+    text-indent:90px;
+}
+.edmundlist{
+    font-size:15px;
+    font-family:Helvetica;
+    color:ForestGreen;
+}
+.skill{
+    font-size:25px;
+    font-family:Monospace;
+    color:Fuchsia;
+    text-indent:40px;
+}
+.skills{
+      font-size:15px;
+      text-indent:0px;
+      font-family:Monospace;
+      color:FireBrick;
+}
+.extra{
+    font-size:25px;
+    font-family:Monospace;
+    color:MidnightBlue;
+}
+.extralist{
+    font-size:15px;
+    font-family:Helvetica;
+    color:SaddleBrown;
+}
+.learnlist{
+    font-size:15px;
+    font-family:Helvetica;
+    color:DeepPink;
+}
+.classes{
+    font-size:25px;
+    font-family:Monospace;
+    color:RebeccaPurple;
+}
+.classlist{
+    font-size:15px;
+    font-family:Helvetica;
+    color:DarkOliveGreen;
+}
+.future{
+    font-size:25px;
+    font-family:Monospace;
+    color:YellowGreen;
+}
+.futureplans{
+    font-size:15px;
+    font-family:Helvetica;
+    color:LightGoldenrodYellow;
+}
+.contact{
+    font-size:15px;
+    font-family:Tahoma;
+    color:DimGray;
+}
+.learnlist{
+    font-size:15px;
+    text-indent:90px;
+    font-family:Helvetica;
+    color:Indigo;
+}
+.learndisc{
+    text-indent:140px;
+    font-size:15px;
+    font-family:Helvetica;
+    color:LightSeaGreen;
+}
+.projectlist{
+    font-size:20px;
+    text-indent:70px;
+    font-family:Helvetica;
+    color:HoneyDew;
+}
+.projectdisc{
+    text-indent:110px;
+    font-size:12px;
+    font-family:Helvetica;
+    color:DimGray;
+}
+.center{
+    text-align:center;
+}
+.space{
+    text-indent:90px;
+}
+.note{
+    text-indent:600px;
+}
